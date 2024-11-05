@@ -48,6 +48,10 @@ public class GamePanel extends JPanel implements KeyListener, MouseListener {
         int newX = playerX + dx;
         int newY = playerY + dy;
 
+        if (newX < 0 || newX >= world.getWidth() || newY < 0 || newY >= world.getHeight()) {
+            world.expandWorld(world.getWidth() + 10, world.getHeight() + 10);
+        }
+
         if (newX >= 0 && newX < world.getWidth() && newY >= 0 && newY < world.getHeight()) {
             playerX = newX;
             playerY = newY;
