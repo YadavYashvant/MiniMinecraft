@@ -28,8 +28,8 @@ A simple 2D Minecraft-like game built with Java. It is a basic attempt to create
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/YadavYashvant/miniminecraft.git
-    cd miniminecraft
+    git clone https://github.com/YadavYashvant/MiniMinecraft.git
+    cd MiniMinecraft
     ```
 
 2. **Build the project**:
