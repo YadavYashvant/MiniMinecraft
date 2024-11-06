@@ -1,6 +1,8 @@
 # MiniMinecraft
 
 A simple 2D Minecraft-like game built with Java. It is a basic attempt to create a 2D game where the player can move around, place, and remove blocks in an expanding world.
+
+## Screenshots
 ![image](https://github.com/user-attachments/assets/1b2258c9-0163-4fdd-be61-7921abe65e97)
 
 
