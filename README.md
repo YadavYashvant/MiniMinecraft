@@ -1,5 +1,5 @@
 # MiniMinecraft
-
+### (❗ I'm considering to make it 3D with LWJGL.)
 A simple 2D Minecraft-like game built with Java. It is a basic attempt to create a 2D game where the player can move around, place, and remove blocks in an expanding world.
 
 ## Screenshots
